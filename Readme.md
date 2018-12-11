@@ -65,3 +65,9 @@ You can test them using postman or any other rest client.
 You can find the tutorial for this application on my blog -
 
 <https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/>
+
+## JPA Relationship
+
+Relationships in Spring Data REST -
+
+<https://www.baeldung.com/spring-data-rest-relationships>
